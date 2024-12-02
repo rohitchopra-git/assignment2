@@ -9,11 +9,12 @@ There is an organization which has 3 teams based on user roles :
 - Testing
 
   First, you need to create 9 Jenkins jobs. Each job will print its job name, and build number.
-            For the Developer, create 3 dummy jobs, visible in the developer view
+
+    For the Developer, create 3 dummy jobs, visible in the developer view
                 job1:- dev-1
                 job2:- dev-2
                 job3:- dev-3
-            For Testing, create 3 dummy jobs, visible in the testing view
+    For Testing, create 3 dummy jobs, visible in the testing view
                 job1:- test-1
                 job2:- test-2
                 job3:- test-3
