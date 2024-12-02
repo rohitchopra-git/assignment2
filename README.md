@@ -81,10 +81,10 @@ Enable SSO with Google for admin user
 ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/assign_role_item.JPG)
 
 
-7. Tester view
+6. Tester view
 ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/tester_view.JPG)
 
-8. Devops view
+7. Devops view
 
 ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/devops_view.JPG)
 
