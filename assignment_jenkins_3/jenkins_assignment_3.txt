@@ -1,0 +1,29 @@
+                                                                                 Assignment - 03
+
+Perform CI checks on three Repositories using Jenkins, store reports, manage artifacts, and set up failure notifications.
+API Repositories:
+- Python:- https://github.com/OT-MICROSERVICES/attendance-api
+- GoLang:- https://github.com/OT-MICROSERVICES/employee-api
+- Java:- https://github.com/opstree/spring3hibernate.git
+
+Jenkins Freestyle Jobs:
+	Create separate jobs for each check.
+	Configure to pull repositories from GitHub.
+	Implement Generic & Advance CI Checks (eg: Credential Scanning, Unit Testing, Code Coverage, Dependency, etc.)
+	Store and access reports within Jenkins.
+	Choose local or remote storage for artifacts.
+	Configure email, Slack, or Telegram notifications on CI check failures.
+GitHubGitHub
+GitHub - OT-MICROSERVICES/attendance-api: A Python based microservice for handling all attendance related data
+A Python based microservice for handling all attendance related data - OT-MICROSERVICES/attendance-api 
+https://github.com/OT-MICROSERVICES/attendance-api
+
+GitHubGitHub
+GitHub - OT-MICROSERVICES/employee-api: A Golang based web microservice for handling all employee related data
+A Golang based web microservice for handling all employee related data - OT-MICROSERVICES/employee-api 
+https://github.com/OT-MICROSERVICES/employee-api
+
+GitHubGitHub
+GitHub - opstree/spring3hibernate: A java loaded application for various testing purpose
+A java loaded application for various testing purpose - opstree/spring3hibernate 
+https://github.com/opstree/spring3hibernate/issues
