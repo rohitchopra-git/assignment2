@@ -27,16 +27,17 @@ There is an organization which has 3 teams based on user roles :
                 job3:- devops-3
 
 Users in each team: 
-            developer: [ They can see only dev jobs, can build it, see workspace and configure it ]
+
+  developer: [ They can see only dev jobs, can build it, see workspace and configure it ]
                 - developer-1 
                 - developer-2 
-            testing: [ They can see all test jobs, can build it, see workspace and can configure it, | They can also view dev jobs ]
+  testing: [ They can see all test jobs, can build it, see workspace and can configure it, | They can also view dev jobs ]
                 - testing-1 
                 - testing-2 
-            devops:  [ They can see all devops jobs, can build it, see workspace and can configure it, | They can also view dev and test jobs  ]
+  devops:  [ They can see all devops jobs, can build it, see workspace and can configure it, | They can also view dev and test jobs  ]
                 - devops-1 
                 - devops-2
-            Administration
+  Administration
                 -  admin-1 [ It will have full access ]        
 
 See what Authorization strategy suits it and implement it.
