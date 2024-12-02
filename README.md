@@ -61,3 +61,30 @@ Enable SSO with Google for admin user
 1. Create  a freestyle jobs
 
 ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/alljob.JPG)
+
+2. Assign roles: manage jenkins > assign role > manage role > global role
+
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/manage_role_global.JPG)
+
+3. Assign role: manage jenkins > assign role > manage role > item role
+
+   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/manage_role_item.JPG)
+
+
+4. Assign role > global role
+
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/assign_role_global.JPG)
+
+5. Assign role item > item role
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/assign_role_item.JPG)
+
+6. Tester view
+   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/tester_view.JPG)
+
+7. Devops view
+
+   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/devops_view.JPG)
+
+8. Developers view
+
+   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/developers_view.JPG)
