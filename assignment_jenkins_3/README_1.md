@@ -61,9 +61,9 @@ gitleaks detect --source=$WORKSPACE --report-path=$WORKSPACE/gitleaks-report.jso
 
 9. Dependency Check
 
-![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/Dependency1.JPG)
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/fe01e5af0a8786e8299ffa805e655ddebf0aa0c8/assignment_jenkins_3/Dependency1.JPG)
 
-![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/Dependency2.JPG)
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/fe01e5af0a8786e8299ffa805e655ddebf0aa0c8/assignment_jenkins_3/Dependency2.JPG)
 
 
    
