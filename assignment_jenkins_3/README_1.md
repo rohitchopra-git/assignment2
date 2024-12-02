@@ -33,7 +33,7 @@ gitleaks detect --source=$WORKSPACE --report-path=$WORKSPACE/gitleaks-report.jso
 
 4. Dependency Check
 
-![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/Dependency.JPG)
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/DependencyJPG.JPG)
  
 3. Result of checkstyle
 
@@ -55,7 +55,8 @@ gitleaks detect --source=$WORKSPACE --report-path=$WORKSPACE/gitleaks-report.jso
 ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/cobertura1.JPG)
 
 4. Git leaks - Credential Scanning
-![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/gitkeaks.JPG)
+   
+![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/d45d5d788cd9f31c8ae4094ebff669df49283817/assignment_jenkins_3/gitleaks.JPG)
 
 4. Dependency Check
    
