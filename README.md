@@ -16,10 +16,12 @@ There is an organization which has 3 teams based on user roles :
                 job2:- dev-2
                 job3:- dev-3
     For Testing, create 3 dummy jobs, visible in the testing view
+  
                 job1:- test-1
                 job2:- test-2
                 job3:- test-3
-            For DevOps, create 3 dummy jobs, visible in the devops view
+    For DevOps, create 3 dummy jobs, visible in the devops view
+  
                 job1:- devops-1
                 job2:- devops-2
                 job3:- devops-3
