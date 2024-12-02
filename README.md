@@ -87,4 +87,4 @@ Enable SSO with Google for admin user
 
 8. Developers view
 
-   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/developers_view.JPG)
+   ![App Screenshot](https://github.com/rohitchopra-git/assignment2/blob/662f41a2fa4cf37602a4f3543469a89b90c89195/assignment_jenkins_2/devlopers_view.JPG)
