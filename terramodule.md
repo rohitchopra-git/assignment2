@@ -65,11 +65,18 @@ Types of Terraform Modules:
 
 ## 6. Terraform CI (Continuous Integration)
 
-| **Step** | **Description** |
-|-------------------------------|----------------------------------------------------------------|
-| **Code Linting** (`tflint`, `terraform fmt`) | Ensures consistent formatting and detects syntax/style violations in Terraform code. |
-| **Validation** (`terraform validate`) | Checks for basic syntax errors and module compatibility without accessing remote state. |
-| **Security Scanning** (`tfsec`, `checkov`) | Identifies security misconfigurations and compliance violations in infrastructure code. |
+
+| Step | Description |
+|------|------------|
+| Clean Workspace → (wsClean) | Removes any previous build artifacts and resets the workspace to ensure a clean execution environment. |
+| Checkout Code from Git → (gitCheckOut) | Retrieves the latest version of the Terraform code from the repository. |
+| Initialize Terraform → (terraformInit) | Prepares the working directory by downloading required Terraform providers and modules. |
+| Format Terraform Code → (terraformFmt) | Ensures consistent formatting and detects syntax/style violations in Terraform code. |
+| Validate Terraform Code → (terraformValidate) | Checks for basic syntax errors and module compatibility without accessing remote state. |
+| Run Terraform Linter → (terraformLflint) | Analyzes Terraform code to detect potential issues and enforce best practices. |
+| Run Security & Compliance Checks → (terraformCheckov) | Identifies security misconfigurations and compliance violations in infrastructure code. |
+| Cost Estimation → (terraformInfracost) | Provides an estimated cost analysis of the Terraform infrastructure before deployment. |
+
 
 
 <p align="center">
