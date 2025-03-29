@@ -73,8 +73,9 @@ Types of Terraform Modules:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6077c44b-ed2e-43fc-b7ac-fb764a582369" alt="modules">
+  <img src="https://github.com/user-attachments/assets/bcd14f36-78e9-4f1d-b3c8-7fe0809e09d6)" alt="modules">
 </p>
+
 
 
 ## 7. Terraform CD (Continuous Deployment)
