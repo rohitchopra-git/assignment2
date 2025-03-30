@@ -54,6 +54,23 @@ Types of Terraform Modules:
 </p>
 
 
+
+## Terraform Workflow Diagram
+
+```mermaid
+%%{config: {"theme": "forest"}}%%
+flowchart LR
+    C["Terraform Plan"] --> D["Terraform Apply"] & n1["Terraform Destroy"]
+    n2[" "] --> C
+    A["Initialize Terraform"]
+    C:::rounded
+    n2:::anchor
+    A:::rounded
+
+classDef rounded stroke:#333,fill:#f9f,rx:10,ry:10;
+classDef anchor stroke:#333,fill:#ff9;
+
+
 ## 5. Advantages/Disadvantages of CI/CD in Terraform
 
 | **Advantages** | **Disadvantages** |
